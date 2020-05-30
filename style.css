@@ -1,0 +1,19 @@
+* {
+  /**XXXXX** BEGIN Rem out **XXXXX**
+  ***X box-sizing: border-box;
+  ***XXXXX**  END  Rem out **XXXXX**/
+}
+
+body {
+  /* Typography */
+  font-size: 18px;
+  line-height: 27px;
+
+  /* Visual */
+  background-color: #ccc;
+}
+
+h1 {
+  background-color: royalblue;
+  color: white;
+}
