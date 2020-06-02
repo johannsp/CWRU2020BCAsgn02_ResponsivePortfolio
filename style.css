@@ -23,11 +23,17 @@ h1 {
   padding: 0rem;
 }
 
+.card {
+  margin: 0rem;
+  padding: 0rem;
+  max-width: 300px;
+}
+
 img {
   width: 100%;
 }
 
 /* Create Vim logo labelled with text */
 .VimLogo_with_text {
-  width: 200rem;
+  width: 150rem;
 }
