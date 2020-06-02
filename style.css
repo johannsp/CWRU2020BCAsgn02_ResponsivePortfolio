@@ -26,7 +26,11 @@ h1 {
 .card {
   margin: 0rem;
   padding: 0rem;
-  max-width: 300px;
+  background-color: #ccc;
+}
+
+.card .VimLogo_with_text {
+  max-width: 60vw;
 }
 
 img {
@@ -35,5 +39,5 @@ img {
 
 /* Create Vim logo labelled with text */
 .VimLogo_with_text {
-  width: 150rem;
+  width: 200rem;
 }
