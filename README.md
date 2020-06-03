@@ -10,3 +10,5 @@ Preview:
 This portfolio is a proof of concept portfolio layout that alludes to my
 interest in the Vim text editor.
 
+HTML validation was performed using validator.w3.org.
+
