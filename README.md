@@ -5,7 +5,7 @@ Link:
 https://johannsp.github.io/CWRUBC-Responsive-Portfolio/
 
 Preview:
-[![Responsive-Portfolio-website-preview.png](https://i.postimg.cc/P5svrXnx/Responsive-Portfolio-website-preview.png)](https://postimg.cc/qzwv1dRV)
+[![Responsive-Portfolio-B1-website-preview.png](https://i.postimg.cc/pXMVMw7M/Responsive-Portfolio-B1-website-preview.png)](https://postimg.cc/pykMD6Rs)
 
 This portfolio is a proof of concept portfolio layout that alludes to my
 interest in the Vim text editor.
